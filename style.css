@@ -1,0 +1,42 @@
+.photo{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+}
+.icon{
+    width: 30px;
+    border-radius: 50%;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    position: relative;
+}
+.box{
+    padding: 20px;
+    border-radius: 20px;
+background-color: bisque;
+display: flex;
+gap: 300px;
+}
+progress{
+    width: 300px;
+}
+span{
+    margin-left: 290px;
+    font-size: 30px;
+}
+h1{
+    margin-left: 200px;
+    font-size: 20px;
+    margin-top: 100px;
+}
+button{width: 100px;
+height: 30px;
+border-radius: 20px;
+background-color: black;
+color: white;
+margin-left: 200px;
+}
